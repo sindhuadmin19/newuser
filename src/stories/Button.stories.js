@@ -47,3 +47,10 @@ export const Small = {
     label: 'Button',
   },
 };
+
+export const Navbar = {
+  args:{
+    primary:false,
+    label:"Button"
+  }
+};
