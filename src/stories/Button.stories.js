@@ -47,3 +47,10 @@ export const Small = {
     label: 'Button',
   },
 };
+
+export const Hero = {
+  args:{
+    primary:false,
+    label:"Button"
+  }
+};
